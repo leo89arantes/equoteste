@@ -304,7 +304,7 @@ button {
 
 .banner {
      position: relative;
-     background: url(../images/g925.jpg);
+     background: url(../images/g925.png);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -325,8 +325,8 @@ button {
 }
 
 .text-bg h1 {
-     color: #000;
-     font-size: 85px;
+     color: 0a5546ff;
+     font-size: 60px;
      line-height: 96px;
      padding-bottom: 0px;
      font-weight: bold;
@@ -335,7 +335,7 @@ button {
 .text-bg span {
      line-height: 25px;
      padding-bottom: 40px;
-     color: #fff;
+     color: #0a5546ff;
      font-size: 17px;
      font-weight: bold;
      display: block;
@@ -345,8 +345,8 @@ button {
      max-width: 243px;
      height: 66px;
      padding: 17px 0;
-     background-color: #fff;
-     color: #000;
+     background-color: #0a5546ff;;
+     color: #fff;
      text-transform: uppercase;
      font-weight: bold;
      border-radius: 50px;
@@ -888,7 +888,7 @@ button {
 /** contact section **/
 
 .contact {
-     background: url(../images/conatct.jpg);
+     background: url(../images/conatct.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      background-position: center;
